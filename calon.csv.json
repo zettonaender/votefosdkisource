@@ -1,0 +1,35 @@
+[
+    {
+        "pk": 1,
+        "model": "testapp.paslon",
+        "fields": {
+            "nomorurut": 1,
+            "isputra": "True",
+            "namaketua": "Achmad Za'im Mudzaki",
+            "namawakil": "null",
+            "votecount": 0
+        }
+    },
+    {
+        "pk": 2,
+        "model": "testapp.paslon",
+        "fields": {
+            "nomorurut": 2,
+            "isputra": "True",
+            "namaketua": "Alicia Chandra",
+            "namawakil": "null",
+            "votecount": 0
+        }
+    },
+    {
+        "pk": 3,
+        "model": "testapp.paslon",
+        "fields": {
+            "nomorurut": 3,
+            "isputra": "True",
+            "namaketua": "Bintang Afrillia Deviana L",
+            "namawakil": "null",
+            "votecount": 0
+        }
+    }
+]

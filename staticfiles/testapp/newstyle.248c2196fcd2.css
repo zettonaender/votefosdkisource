@@ -1,0 +1,106 @@
+@font-face{
+	font-family:p5r;
+	src: url("font/OptimaNovaLTPro-Black.c65c9b7e272f.otf");
+	font-weight:bold;
+}
+@font-face{
+	font-family:p5r;
+	src:url("font/OptimaNovaLTPro-Regular.101eb8b7a69d.otf");
+	font-weight:normal;
+}
+body{
+	font-family:p5r;
+	text-shadow:0px 3px 7px rgba(0,0,0,1);
+	/*background-color:#0c2422;*/
+	background-color:rgba(17,25,25,1);
+	font-size:36px;
+	color:#dddbdd;
+	width:75%;
+	margin:auto;
+}
+div{
+	margin:auto;
+	text-align:center;
+	width:90%;
+}
+h1{
+	text-align:center;
+	font-size:60px;
+}
+table{
+	margin:auto;
+	border-left-style:solid;
+	border-bottom-style:solid;
+	border-width:1px;
+	color:#dddbdd;
+}
+th,td{
+	border-right-style:solid;
+	border-top-style:solid;
+	border-width:1px;
+	color:#dddbdd;
+	padding:10px;
+}
+th{
+	padding-left:100px;
+	padding-right:100px;
+}
+td{
+	padding-right:50px;
+	padding-left:50px;
+	text-align:center;
+}
+.bgpic{
+	width:100%;
+	height:100%;
+	object-fit:cover;
+	position:fixed;
+	top:0;
+	left:0;
+	opacity:.5;
+	z-index:-1;
+
+}
+
+#tebel{
+	font-weight:bold;
+}
+.tombol{
+	border:hidden;
+	width:400px;
+	height:100px;
+	background-color:#02a468;
+	transition-duration: 0.4s;
+	cursor: pointer;
+}
+.tombol:hover {
+  background-color: #284746;
+}
+#textinbutton{
+	color:#dddbdd;
+	font-size:60px;
+	font-family:p5r;
+	text-shadow:0px 3px 7px rgba(0,0,0,1);
+	margin:0;
+	padding-left:20px;
+	text-align:center;
+}
+.tombolcancel{
+	border:hidden;
+	width:400px;
+	height:100px;
+	background-color:#ff9398;
+	transition-duration: 0.4s;
+}
+.tombolcancel:hover {
+  background-color: #284746;
+}
+#textinbutton2{
+	color:#dddbdd;
+	font-size:60px;
+	font-family:p5r;
+	text-shadow:0px 3px 7px rgba(0,0,0,1);
+	margin:0;
+	padding-left:25px;
+	text-align:center;
+}

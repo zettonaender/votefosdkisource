@@ -1,0 +1,632 @@
+[
+    {
+        "pk": 1,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Alvinaldy Fitrah",
+            "username": "Alvinaldy Fitrah",
+            "password": 149202,
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Budiman Prawiroatmojo Danardana",
+            "username": "Budiman Prawiroatmojo Danardana",
+            "password": 739200,
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Abdullah An Nafis",
+            "username": "Abdullah An Nafis",
+            "password": 382991,
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 4,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Hanazra Ismi",
+            "username": "Hanazra Ismi",
+            "password": 429551,
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 5,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Helmy Putra Mukminin",
+            "username": "Helmy Putra Mukminin",
+            "password": 739201,
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 6,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Amira Nadine",
+            "username": "Amira Nadine",
+            "password": 638208,
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 7,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Bryan Benedict",
+            "username": "Bryan Benedict",
+            "password": 475289,
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 8,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Ezzuden Sesarino",
+            "username": "Ezzuden Sesarino",
+            "password": 940282,
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 9,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Muhammad Al Vanriadi",
+            "username": "Muhammad Al Vanriadi",
+            "password": 739201,
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 10,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "M. Farhan",
+            "username": "M. Farhan",
+            "password": 38201,
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 11,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Dimas Wildan",
+            "username": "Dimas Wildan",
+            "password": 839488,
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 12,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Novia Angginie Lisdayanti",
+            "username": "Novia Angginie Lisdayanti",
+            "password": 492018,
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 13,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Alif Aulia Ahmad",
+            "username": "Alif Aulia Ahmad",
+            "password": 830228,
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 14,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Daffa Putra Rabbani",
+            "username": "Daffa Putra Rabbani",
+            "password": "Daffa5",
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 15,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Layla Alya Sabhira",
+            "username": "Layla Alya Sabhira",
+            "password": "kukukakiku",
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 16,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Mohamad Jibran",
+            "username": "Mohamad Jibran",
+            "password": 492992,
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 17,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Ahmad Reyhan Palakka",
+            "username": "Ahmad Reyhan Palakka",
+            "password": "Amanda",
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 18,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Farhan Alvian",
+            "username": "Farhan Alvian",
+            "password": 749202,
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 19,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Mauriel Hafidz",
+            "username": "Mauriel Hafidz",
+            "password": 429102,
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 20,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Kemala Aryne",
+            "username": "Kemala Aryne",
+            "password": "sushii",
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 21,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Gracia Charlita Saragih",
+            "username": "Gracia Charlita Saragih",
+            "password": "Sumbayak",
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 22,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Nabila Saharani",
+            "username": "Nabila Saharani",
+            "password": 482028,
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 23,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "M. Aqil Noviandri",
+            "username": "M. Aqil Noviandri",
+            "password": 749995,
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 24,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Keyika Sita Rae Aqilah Sukmawan",
+            "username": "Keyika Sita Rae Aqilah Sukmawan",
+            "password": "kenjiv",
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 25,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Wahyu Azi Prasetya",
+            "username": "Wahyu Azi Prasetya",
+            "password": 392011,
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 26,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Amanda Erica Ferdianti",
+            "username": "Amanda Erica Ferdianti",
+            "password": "cintamala",
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 27,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Cinta Wilhelmina Anugrah Hosana",
+            "username": "Cinta Wilhelmina Anugrah Hosana",
+            "password": 593022,
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 28,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Daffa Aditya Irwan",
+            "username": "Daffa Aditya Irwan",
+            "password": 394828,
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 29,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "M. Akbar Firdaus",
+            "username": "M. Akbar Firdaus",
+            "password": 839208,
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 30,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Muhammad",
+            "username": "Muhammad",
+            "password": 596300,
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 31,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Daffa Aqilah Sofiyan",
+            "username": "Daffa Aqilah Sofiyan",
+            "password": 58827,
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 32,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Muhammad Hafidz Irsyad",
+            "username": "Muhammad Hafidz Irsyad",
+            "password": 482099,
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 33,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Achmad Za'im Mudzaki",
+            "username": "Achmad Za'im Mudzaki",
+            "password": "Calista",
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 34,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Alicia Chandra",
+            "username": "Alicia Chandra",
+            "password": "homeland",
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 35,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Angel Jelita Simanjuntak",
+            "username": "Angel Jelita Simanjuntak",
+            "password": 920038,
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 36,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Azanti Zuhriyanti",
+            "username": "Azanti Zuhriyanti",
+            "password": "iniaku",
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 37,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Azka Irthika Radin",
+            "username": "Azka Irthika Radin",
+            "password": "epiphany",
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 38,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Bintang Afrillia Deviana L",
+            "username": "Bintang Afrillia Deviana L",
+            "password": "Bintan",
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 39,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Bintang Destian Pradiva",
+            "username": "Bintang Destian Pradiva",
+            "password": 839201,
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 40,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Chairul Rifky Tirtacahyadi",
+            "username": "Chairul Rifky Tirtacahyadi",
+            "password": "Chairul2507",
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 41,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Dafa Riansyah",
+            "username": "Dafa Riansyah",
+            "password": "Ganteng",
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 42,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Dyah Ayu Permatasari",
+            "username": "Dyah Ayu Permatasari",
+            "password": "dyahaaap",
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 43,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Farah Azizah Ainul Yaqin",
+            "username": "Farah Azizah Ainul Yaqin",
+            "password": "Tipatipiy123",
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 44,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Fazlan Febrian",
+            "username": "Fazlan Febrian",
+            "password": "fazlanryan",
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 45,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Haifa Athira Naurah",
+            "username": "Haifa Athira Naurah",
+            "password": "haifaathira",
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 46,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Laila Ramadini",
+            "username": "Laila Ramadini",
+            "password": "Gantara",
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 47,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Made Ayu Namira Tsabita",
+            "username": "Made Ayu Namira Tsabita",
+            "password": "yutalion",
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 48,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Nailah Farah Fadhilah",
+            "username": "Nailah Farah Fadhilah",
+            "password": "FABNAF",
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 49,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Naufal Rozaan",
+            "username": "Naufal Rozaan",
+            "password": "flzn12okee",
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 50,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Nausica Ayaro",
+            "username": "Nausica Ayaro",
+            "password": "bokutosan",
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 51,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Nayla Ananda Putri Alisati",
+            "username": "Nayla Ananda Putri Alisati",
+            "password": "nayla002233",
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 52,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Paisal Vieri Eka Tama Simbolon",
+            "username": "Paisal Vieri Eka Tama Simbolon",
+            "password": "dyahaaap",
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 53,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Rana Sofiana",
+            "username": "Rana Sofiana",
+            "password": "Pekalongan",
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 54,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Rizky Zalika Widhiana",
+            "username": "Rizky Zalika Widhiana",
+            "password": 682018,
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 55,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Tirta Prayoga Gunawan",
+            "username": "Tirta Prayoga Gunawan",
+            "password": "ily.rosie",
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 56,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Vania Aurellia",
+            "username": "Vania Aurellia",
+            "password": "nialudics",
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 57,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "Wahyu Pramatullah",
+            "username": "Wahyu Pramatullah",
+            "password": "dhgabc",
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 58,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "dueisn",
+            "username": "dueisn",
+            "password": 653002,
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 59,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "wiankd",
+            "username": "wiankd",
+            "password": 930265,
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 60,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "jiwbdu",
+            "username": "jiwbdu",
+            "password": 490299,
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 61,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "ianmso",
+            "username": "ianmso",
+            "password": 666391,
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 62,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "pwksua",
+            "username": "pwksua",
+            "password": 839273,
+            "voted": "False"
+        }
+    },
+    {
+        "pk": 63,
+        "model": "testapp.akun",
+        "fields": {
+            "nama": "ncudbs",
+            "username": "ncudbs",
+            "password": 482992,
+            "voted": "False"
+        }
+    }
+]

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	{% load static %}
+	<title>Pemilihan Ketua Forum OSIS DKI Jakarta</title>
+	<meta name="viewport" content="height=device-height, width=device-width, initial-scale=1, maximum-scale=1">
+	<link rel="stylesheet" type="text/css" href="{% static "testapp/css/style.css" %}">
+</head>
+<body>
+	<br>
+	<img src={% static "testapp/css/bg.jpg" %} id="bglanding">
+	<h1 id="ppqbold" class="teks">Terima Kasih!</h1>
+	<p id="tulisan" class="teks">Vote kamu telah masuk.<br>Harap ditunggu hasilnya ya</p>
+	<a href="{% url 'index' %}" id="hiddenbutton"></a>
+</body>
+</html>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	{% load static %}
+	<title>Pemilihan Ketua Forum OSIS DKI Jakarta</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="{% static "testapp/newstyle.css" %}">
+</head>
+<body>
+	<img src="{% static "testapp/css/bg.jpg" %}" class="bgpic">
+	<br>
+	<h1 id="tebel">Silahkan cek data dibawah ini.</h1>
+	<table style="background-color:#0d2523;">
+		<tr style="background-color:#0d2523;">
+			<td>Nama anda</td><th>{{data_nama}}</th>
+		</tr>
+		<tr style="background-color:#0d2523;">
+			<td>Pilihan calon</td><th>{{data_choose}}</th>
+		</tr>
+	</table>
+	<br>
+	<div>Pastikan data tersebut sudah sesuai.</div>
+	<div style="font-size:20px;"> *Anda hanya bisa memilih satu kali.</div>
+	<br>
+	<div>
+		<form action="donepage" method="POST">
+			{% csrf_token %}
+			<input name="username" id="username" type="hidden" value="{{username}}">
+			<input name="password" id="password" type="hidden" value="{{password}}">
+			<input name="paslon" id="paslon" type="hidden" value="{{paslon_id}}">
+			<button type="submit" class="tombol">
+				<div id="textinbutton">Konfirmasi</div>
+			</button>
+		</form>
+		<br>
+		<button onclick="location.href='loginform'" class="tombolcancel">
+			<div id="textinbutton2">Batal</div>
+		</button>
+	</div>
+	<br>
+</body>
+</html>

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+	{% load static %}
+	<title>Pemilihan Ketua Forum OSIS DKI Jakarta</title>
+	<link rel="stylesheet" type="text/css" href={% static "testapp/newstyle.css" %}>
+</head>
+<body style="margin-top:15vh;">
+	<img src="{% static "testapp/css/bg2.jpg" %}" class="bgpic" style="object-fit=contain;">
+	<div>
+	Terlogin atas nama: {{namadb}}<br><br>
+	<table style="margin:auto;border:hidden;">
+		<th colspan="3" style="background-color:#25afd4;border:hidden;font-size:64px;padding-bottom:30px;">Pilihan Calon</th>
+		<tr>
+			<td style="background-color:#25afd4;border:hidden;"><img src="{% static "testapp/S__3751943.jpg" %}" style="height:30vh;"></td>
+			<td style="background-color:#25afd4;border:hidden;"><img src="{% static "testapp/S__3751945.jpg" %}" style="height:30vh;"></td>
+			<td style="background-color:#25afd4;border:hidden;"><img src="{% static "testapp/S__3751946.jpg" %}" style="height:30vh;"></td>
+		</tr>
+		<tr>
+			<td style="background-color:#25afd4;border:hidden;">
+				<form action="konfirmasi" method="POST">
+					{% csrf_token %}
+					<input name="username" id="username" type="hidden" value="{{username}}">
+					<input name="password" id="password" type="hidden" value="{{password}}">
+					<input name="paslon" id="paslon" type="hidden" value="1">
+					<button type="submit" class="tombol" style="width:160px;">
+						<div id="textinbutton" style="padding:0;">Pilih</div>
+					</button>
+				</form>
+			</td>
+			<td style="background-color:#25afd4;border:hidden;">
+				<form action="konfirmasi" method="POST">
+					{% csrf_token %}
+					<input name="username" id="username" type="hidden" value="{{username}}">
+					<input name="password" id="password" type="hidden" value="{{password}}">
+					<input name="paslon" id="paslon" type="hidden" value="2">
+					<button type="submit" class="tombol" style="width:160px;">
+						<div id="textinbutton" style="padding:0;">Pilih</div>
+					</button>
+				</form>
+			</td>
+			<td style="background-color:#25afd4;border:hidden;">
+				<form action="konfirmasi" method="POST">
+					{% csrf_token %}
+					<input name="username" id="username" type="hidden" value="{{username}}">
+					<input name="password" id="password" type="hidden" value="{{password}}">
+					<input name="paslon" id="paslon" type="hidden" value="3">
+					<button type="submit" class="tombol" style="width:160px;">
+						<div id="textinbutton" style="padding:0;">Pilih</div>
+					</button>
+				</form>
+			</td>
+		</tr>
+	</table>
+	</div>
+</body>
+</html>

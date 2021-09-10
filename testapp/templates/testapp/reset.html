@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	{% load static %}
+	<title>Pemilihan Ketua Forum OSIS DKI Jakarta</title>
+	<link rel="stylesheet" type="text/css" href={% static "testapp/newstyle.css" %}>
+</head>
+<body>
+	<br>
+	<br>
+	<br>
+	<img src="{% static "testapp/css/bg2.jpg" %}" class="bgpic" style="object-fit=contain;">
+	<div>
+		<br>
+		<div>
+			{{errormsg}}
+			<br>
+			Silahkan login untuk lanjut.
+		</div>
+		<br>
+		<form action="resetted" method="POST">
+			{% csrf_token %}
+			<label for="username" id="tebel">Username</label>
+			<br>
+			<input type="text" name="username" id="username" style="height:50px;width:400px;">
+			<br>
+			<br>
+			<label for="password" id="tebel" >Password</label>
+			<br>
+			<input type="password" name="password" id="password" style="height:50px;width:400px;">
+			<br>
+			<br>
+			<button type="submit" class="tombol" style="width:240px;">
+				<div id="textinbutton" style="padding:0;">Login</div>
+			</button>
+		</form>
+	</div>
+	<br>
+</body>
+</html>
